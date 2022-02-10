@@ -1,0 +1,23 @@
+{
+  "name": "simple-drum-machine",
+  "version": "1.0.0",
+  "description": "유튜브에 최홍찬 구글 크롬 웹 오디어 테크리더분께서 한글날을 기념으로 올려두신 영상을 참조하여 예제 프로젝트를 구성했습니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sun202x/simple-drum-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sun202x/simple-drum-machine/issues"
+  },
+  "homepage": "https://github.com/sun202x/simple-drum-machine#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
